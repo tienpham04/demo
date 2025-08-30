@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+input {
+  padding: 8px;
+  width: 300px;
+}
+button {
+  padding: 8px 12px;
+  background: #2b6cb0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background: #2c5282;
+}

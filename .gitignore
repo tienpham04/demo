@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environment ----
+.venv/
+venv/
+ENV/
+env/
+
+# ---- IDE/editor ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Logs ----
+*.log
+
+# ---- Cache ----
+.cache/
+.pytest_cache/
+
+# ---- Model files (nếu tải về local) ----
+*.bin
+*.pt
+*.pth
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
