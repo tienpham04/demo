@@ -1,22 +1,53 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Vector Search Demo</title>
-</head>
-<body>
-    <h1>Vector Search với Qdrant + SBERT (Tiếng Việt)</h1>
-    <form method="POST">
-        <input type="text" name="query" placeholder="Nhập câu hỏi..." required>
-        <button type="submit">Tìm kiếm</button>
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <h1 class="title">🔎 Vector Search Demo</h1>
+
+    <!-- Form nhập query -->
+    <form method="POST" class="search-form">
+        <div class="form-group">
+            <label for="query">Nhập câu truy vấn:</label>
+            <input type="text" id="query" name="query" class="form-control" placeholder="Ví dụ: học máy là gì?" required>
+        </div>
+
+        <div class="form-group">
+            <label for="model">Chọn mô hình embedding:</label>
+            <select id="model" name="model" class="form-control">
+                <option value="paraphrase-multilingual-MiniLM-L12-v2"
+                    {% if request.form.get("model") == "paraphrase-multilingual-MiniLM-L12-v2" %}selected{% endif %}>
+                    paraphrase-multilingual-MiniLM-L12-v2 (384d)
+                </option>
+                <option value="keepitreal/vietnamese-sbert"
+                    {% if request.form.get("model") == "keepitreal/vietnamese-sbert" %}selected{% endif %}>
+                    vietnamese-sbert (768d)
+                </option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn">Tìm kiếm</button>
     </form>
 
+    <!-- Kết quả -->
     {% if results %}
-        <h2>Kết quả:</h2>
-        <ul>
-        {% for r in results %}
-            <li>{{ r }}</li>
-        {% endfor %}
-        </ul>
+    <div class="results">
+        <h2>Kết quả tìm kiếm</h2>
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Câu</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in results %}
+                <tr>
+                    <td>{{ item.text }}</td>
+                    <td>{{ "%.4f"|format(item.score) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
     {% endif %}
-</body>
-</html>
+</div>
+{% endblock %}
