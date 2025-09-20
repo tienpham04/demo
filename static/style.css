@@ -18,7 +18,7 @@ body {
 /* Container chính */
 .container {
     width: 100%;
-    max-width: 750px;
+    max-width: 1350px;
     background: #fff;
     padding: 30px 40px;
     border-radius: 12px;

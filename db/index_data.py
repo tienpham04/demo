@@ -9,6 +9,7 @@ DATA_PATH = os.path.join("data", "data.txt")
 MODELS = {
     "paraphrase-multilingual-MiniLM-L12-v2": 384,
     "keepitreal/vietnamese-sbert": 768,
+    "BAAI/bge-m3": 1024,
 }
 
 # ======================
@@ -28,19 +29,18 @@ with open(DATA_PATH, "r", encoding="utf-8") as f:
 for model_name, dim in MODELS.items():
     print(f"\n🔹 Đang xử lý model: {model_name} (dim={dim})")
 
-    # Load model
     model = SentenceTransformer(model_name)
-
-    # Encode toàn bộ dữ liệu
     embeddings = model.encode(lines)
 
     # Tên collection đặt theo model
     collection_name = f"demo_{model_name.replace('/', '_')}"
 
-    # Xóa collection cũ và tạo mới
-    qdrant.recreate_collection(
+    # Xóa collection cũ và tạo mới (dùng cách mới, tránh warning)
+    if qdrant.collection_exists(collection_name=collection_name):
+        qdrant.delete_collection(collection_name=collection_name)
+    qdrant.create_collection(
         collection_name=collection_name,
-        vectors_config=VectorParams(size=embeddings.shape[1], distance=Distance.COSINE),
+        vectors_config=VectorParams(size=dim, distance=Distance.COSINE),
     )
 
     # Tạo các PointStruct

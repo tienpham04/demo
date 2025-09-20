@@ -7,7 +7,7 @@
     <form method="POST" class="search-form">
         <div class="form-group">
             <label for="query">Nhập câu truy vấn:</label>
-            <input type="text" id="query" name="query" class="form-control" placeholder="Ví dụ: học máy là gì?" required>
+            <input type="text" id="query" name="query" class="form-control" placeholder="Ví dụ: [thành phố] có gì nổi tiếng ?" required>
         </div>
 
         <div class="form-group">
@@ -20,6 +20,10 @@
                 <option value="keepitreal/vietnamese-sbert"
                     {% if request.form.get("model") == "keepitreal/vietnamese-sbert" %}selected{% endif %}>
                     vietnamese-sbert (768d)
+                </option>
+                <option value="BAAI/bge-m3"
+                    {% if request.form.get("model") == "BAAI/bge-m3" %}selected{% endif %}>
+                    BAAI/bge-m3 (1024d)
                 </option>
             </select>
         </div>
@@ -36,6 +40,8 @@
                 <tr>
                     <th>Câu</th>
                     <th>Score</th>
+                    <th>Encode time (ms)</th>
+                    <th>Search time (ms)</th>
                 </tr>
             </thead>
             <tbody>
@@ -43,6 +49,41 @@
                 <tr>
                     <td>{{ item.text }}</td>
                     <td>{{ "%.4f"|format(item.score) }}</td>
+                    {% if loop.first %}
+                        <td rowspan="{{ results|length }}">{{ "%.2f"|format(encode_time or 0) }}</td>
+                        <td rowspan="{{ results|length }}">{{ "%.2f"|format(search_time or 0) }}</td>
+                    {% endif %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+    <!-- ...existing code... -->
+    {% if history and history|length > 0 %}
+    <div class="history">
+        <h2>Lịch sử tìm kiếm gần đây</h2>
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Truy vấn</th>
+                    <th>Mô hình</th>
+                    <th>Kết quả top 1</th>
+                    <th>Score</th>
+                    <th>Encode time (ms)</th>
+                    <th>Search time (ms)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in history|reverse %}
+                <tr>
+                    <td>{{ item.query }}</td>
+                    <td>{{ item.model }}</td>
+                    <td>{{ item.results[0].text if item.results else "" }}</td>
+                    <td>{{ "%.4f"|format(item.results[0].score) if item.results else "" }}</td>
+                    <td>{{ "%.2f"|format(item.encode_time or 0) }}</td>
+                    <td>{{ "%.2f"|format(item.search_time or 0) }}</td>
                 </tr>
                 {% endfor %}
             </tbody>

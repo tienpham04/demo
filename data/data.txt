@@ -1,10 +1,164 @@
-Hà Nội là thủ đô của Việt Nam.
-Huế nổi tiếng với các di tích lịch sử.
-TP Hồ Chí Minh là trung tâm kinh tế lớn nhất.
-Vịnh Hạ Long là di sản thiên nhiên thế giới.
-Đà Nẵng có bãi biển đẹp và nhiều cây cầu hiện đại.
-Sa Pa nổi tiếng với phong cảnh núi non và ruộng bậc thang.
-Cà phê Việt Nam được xuất khẩu đi nhiều nước.
-Bóng đá là môn thể thao được yêu thích nhất ở Việt Nam.
-Tết Nguyên Đán là lễ hội truyền thống quan trọng nhất.
-Ẩm thực Hà Nội nổi bật với phở và bún chả.
+Hà Nội nổi tiếng với hồ Hoàn Kiếm và tháp Rùa.
+Huế là cố đô với nhiều lăng tẩm và cung điện cổ.
+TP Hồ Chí Minh có chợ Bến Thành là biểu tượng của thành phố.
+Vịnh Hạ Long thu hút nhiều khách du lịch quốc tế.
+Sa Pa có khí hậu mát mẻ quanh năm và nhiều bản làng dân tộc.
+Cà phê Việt Nam là đặc sản được nhiều du khách yêu thích khi đến Tây Nguyên.
+Bóng đá Việt Nam từng vô địch AFF Cup năm 2008 và 2018.
+Tết Nguyên Đán là dịp sum họp gia đình và thăm hỏi họ hàng.
+Ẩm thực Hà Nội còn nổi tiếng với bánh cuốn và bún thang.
+TP Hồ Chí Minh có nhiều tòa nhà cao tầng hiện đại.
+Đà Nẵng có cầu Rồng phun lửa vào cuối tuần.
+Hải Phòng nổi tiếng với hoa phượng đỏ mỗi mùa hè.
+Cần Thơ có bến Ninh Kiều thơ mộng bên sông Hậu.
+Nha Trang có tháp Bà Ponagar là di tích lịch sử nổi tiếng.
+Vũng Tàu có tượng Chúa Kitô lớn trên núi Nhỏ.
+Buôn Ma Thuột có lễ hội cà phê thu hút đông đảo du khách.
+Đà Lạt nổi tiếng với vườn hoa và rừng thông bạt ngàn.
+Quy Nhơn có bãi biển Kỳ Co và Eo Gió tuyệt đẹp.
+Phan Thiết nổi tiếng với đồi cát bay và nước mắm truyền thống.
+Thanh Hóa có thành nhà Hồ là di sản thế giới.
+Nam Định nổi tiếng với nhà thờ đá Phát Diệm.
+Vinh có quảng trường Hồ Chí Minh rộng lớn.
+Rạch Giá là cửa ngõ ra đảo Phú Quốc.
+Long Xuyên có chợ nổi Long Xuyên đặc trưng miền Tây.
+Thái Nguyên có bảo tàng các dân tộc Việt Nam.
+Bắc Ninh là quê hương của dân ca quan họ.
+Hạ Long có cáp treo Nữ Hoàng và vòng quay Mặt Trời.
+Bạc Liêu có khu lưu niệm nhạc sĩ Cao Văn Lầu.
+Bến Tre có nhiều cù lao xanh mát trên sông.
+Biên Hòa có nhiều khu công nghiệp hiện đại.
+Cao Lãnh nổi tiếng với vườn quốc gia Tràm Chim.
+Cam Ranh là cửa ngõ ra đảo Bình Ba.
+Hà Giang có lễ hội hoa tam giác mạch vào mùa thu.
+Hà Tĩnh có bãi biển Thiên Cầm đẹp hoang sơ.
+Hòa Bình có nhiều bản làng dân tộc Mường.
+Hội An có lễ hội thả hoa đăng trên sông Hoài.
+Lạng Sơn nổi tiếng với chợ Đông Kinh và ẩm thực vịt quay.
+Lào Cai có đỉnh Fansipan - nóc nhà Đông Dương.
+Móng Cái có chợ Móng Cái nổi tiếng.
+Mỹ Tho có chùa Vĩnh Tràng cổ kính.
+Phủ Lý có nhiều làng nghề truyền thống.
+Phú Quốc có vườn quốc gia rộng lớn.
+Pleiku nổi tiếng với Biển Hồ và cà phê.
+Quảng Ngãi có bãi biển Mỹ Khê đẹp hoang sơ.
+Quảng Trị nổi tiếng với cầu Hiền Lương và sông Bến Hải.
+Sóc Trăng có đặc sản bánh pía.
+Sơn La có nhà tù Sơn La lịch sử.
+Tam Kỳ nổi tiếng với món gà Tam Kỳ.
+Tân An có nhiều làng nghề truyền thống.
+Tuy Hòa có đặc sản mắt cá ngừ đại dương.
+Uông Bí có suối khoáng nóng nổi tiếng.
+Việt Trì có công viên Văn Lang rộng lớn.
+Vĩnh Long có nhiều cù lao trên sông Tiền.
+Yên Bái có hồ Thác Bà rộng lớn.
+Gia Nghĩa có nhiều thác nước đẹp.
+Điện Biên Phủ có cánh đồng Mường Thanh rộng lớn.
+Kon Tum có nhà thờ gỗ cổ kính.
+Hà Nội nổi tiếng với hồ Hoàn Kiếm và tháp Rùa.
+Ẩm thực Hà Nội đa dạng với phở, bún chả, bánh cuốn.
+Hà Nội có nhiều di tích lịch sử như Văn Miếu, Lăng Bác.
+Huế là cố đô với nhiều lăng tẩm và cung điện cổ.
+Ẩm thực Huế nổi bật với bún bò, bánh bèo, bánh khoái.
+Huế có dòng sông Hương thơ mộng chảy qua thành phố.
+TP Hồ Chí Minh có chợ Bến Thành nổi tiếng.
+Cuộc sống về đêm ở TP Hồ Chí Minh rất sôi động.
+TP Hồ Chí Minh là trung tâm tài chính và thương mại của cả nước.
+Vịnh Hạ Long thu hút nhiều khách du lịch quốc tế.
+Vịnh Hạ Long có hàng nghìn hòn đảo đá vôi độc đáo.
+Sa Pa có khí hậu mát mẻ quanh năm.
+Sa Pa nổi tiếng với bản làng dân tộc thiểu số và chợ tình.
+Đà Nẵng nổi tiếng với bãi biển Mỹ Khê.
+Cầu Rồng là biểu tượng hiện đại của thành phố Đà Nẵng.
+Đà Nẵng có lễ hội pháo hoa quốc tế thu hút nhiều du khách.
+Hải Phòng nổi tiếng với hoa phượng đỏ mỗi mùa hè.
+Ẩm thực Hải Phòng có bánh đa cua, nem cua bể.
+Cần Thơ nổi tiếng với chợ nổi Cái Răng.
+Cần Thơ có bến Ninh Kiều thơ mộng bên sông Hậu.
+Nha Trang nổi tiếng với tháp Bà Ponagar và biển xanh cát trắng.
+Nha Trang có Vinpearl Land là khu vui chơi giải trí lớn.
+Vũng Tàu có tượng Chúa Kitô lớn trên núi Nhỏ.
+Bãi Sau là bãi biển đẹp và đông khách nhất Vũng Tàu.
+Buôn Ma Thuột nổi tiếng với cà phê và lễ hội cà phê.
+Buôn Ma Thuột có nhiều bản làng của người Ê Đê.
+Đà Lạt có khí hậu mát mẻ quanh năm.
+Đà Lạt nổi tiếng với vườn hoa và rừng thông bạt ngàn.
+Quy Nhơn nổi tiếng với bãi biển Kỳ Co, Eo Gió.
+Ẩm thực Quy Nhơn có bánh xèo tôm nhảy, bún chả cá.
+Phan Thiết nổi tiếng với đồi cát bay và biển Mũi Né.
+Ẩm thực Phan Thiết có bánh căn, gỏi cá mai.
+Thanh Hóa có thành nhà Hồ là di sản thế giới.
+Ẩm thực Thanh Hóa nổi bật với nem chua.
+Nam Định nổi tiếng với nhà thờ đá Phát Diệm.
+Ẩm thực Nam Định có phở bò gia truyền.
+Vinh có quảng trường Hồ Chí Minh rộng lớn.
+Vinh là trung tâm giáo dục của khu vực Bắc Trung Bộ.
+Rạch Giá nổi tiếng với chợ đêm và cảng biển.
+Rạch Giá là cửa ngõ ra đảo Phú Quốc.
+Long Xuyên có chợ nổi Long Xuyên đặc trưng miền Tây.
+Long Xuyên là trung tâm kinh tế của tỉnh An Giang.
+Thái Nguyên nổi tiếng với chè và công nghiệp.
+Thái Nguyên có bảo tàng các dân tộc Việt Nam.
+Bắc Ninh là quê hương của dân ca quan họ.
+Bắc Ninh nổi tiếng với nhiều lễ hội truyền thống.
+Hạ Long có cáp treo Nữ Hoàng và vòng quay Mặt Trời.
+Hạ Long phát triển mạnh về du lịch biển.
+Bạc Liêu nổi tiếng với nhà Công tử Bạc Liêu.
+Bạc Liêu có khu lưu niệm nhạc sĩ Cao Văn Lầu.
+Bến Tre nổi tiếng với dừa và các sản phẩm từ dừa.
+Bến Tre có nhiều cù lao xanh mát trên sông.
+Biên Hòa là thành phố công nghiệp lớn của tỉnh Đồng Nai.
+Biên Hòa có nhiều khu công nghiệp hiện đại.
+Cao Lãnh nổi tiếng với vườn quốc gia Tràm Chim.
+Cao Lãnh có đặc sản xoài cát thơm ngon.
+Cam Ranh nổi tiếng với cảng nước sâu và bãi biển đẹp.
+Cam Ranh là cửa ngõ ra đảo Bình Ba.
+Hà Giang nổi tiếng với cao nguyên đá Đồng Văn.
+Hà Giang có lễ hội hoa tam giác mạch vào mùa thu.
+Hà Tĩnh có bãi biển Thiên Cầm đẹp hoang sơ.
+Hà Tĩnh là quê hương của nhiều nhà thơ nổi tiếng.
+Hòa Bình nổi tiếng với thủy điện lớn.
+Hòa Bình có nhiều bản làng dân tộc Mường.
+Hội An là phố cổ nổi tiếng với kiến trúc cổ và đèn lồng.
+Hội An có lễ hội thả hoa đăng trên sông Hoài.
+Lạng Sơn là cửa ngõ giao thương với Trung Quốc.
+Lạng Sơn nổi tiếng với chợ Đông Kinh và ẩm thực vịt quay.
+Lào Cai nổi tiếng với cửa khẩu quốc tế và Sa Pa.
+Lào Cai có đỉnh Fansipan - nóc nhà Đông Dương.
+Móng Cái là thành phố biên giới sôi động ở Quảng Ninh.
+Móng Cái có chợ Móng Cái nổi tiếng.
+Mỹ Tho nổi tiếng với chợ nổi và vườn cây ăn trái.
+Mỹ Tho có chùa Vĩnh Tràng cổ kính.
+Phủ Lý là trung tâm của tỉnh Hà Nam.
+Phủ Lý có nhiều làng nghề truyền thống.
+Phú Quốc nổi tiếng với bãi biển đẹp và nước mắm.
+Phú Quốc có vườn quốc gia rộng lớn.
+Pleiku nổi tiếng với Biển Hồ và cà phê.
+Pleiku có nhiều bản làng của người Gia Rai.
+Quảng Ngãi nổi tiếng với đảo Lý Sơn.
+Quảng Ngãi có bãi biển Mỹ Khê đẹp hoang sơ.
+Quảng Trị có thành cổ Quảng Trị lịch sử.
+Quảng Trị nổi tiếng với cầu Hiền Lương và sông Bến Hải.
+Sóc Trăng nổi tiếng với chùa Dơi và cộng đồng người Khmer.
+Sơn La nổi tiếng với chè và hoa mận trắng.
+Sơn La có nhà tù Sơn La lịch sử.
+Tam Kỳ là trung tâm hành chính của tỉnh Quảng Nam.
+Tam Kỳ nổi tiếng với món gà Tam Kỳ.
+Tân An là thành phố của tỉnh Long An, gần TP Hồ Chí Minh.
+Tân An có nhiều làng nghề truyền thống.
+Tuy Hòa nổi tiếng với tháp Nhạn và bãi biển dài.
+Tuy Hòa có đặc sản mắt cá ngừ đại dương.
+Uông Bí nổi tiếng với chùa Yên Tử linh thiêng.
+Uông Bí có suối khoáng nóng nổi tiếng.
+Việt Trì là thành phố lễ hội, nơi tổ chức Giỗ Tổ Hùng Vương.
+Việt Trì có công viên Văn Lang rộng lớn.
+Vĩnh Long nổi tiếng với vườn cây ăn trái.
+Vĩnh Long có nhiều cù lao trên sông Tiền.
+Yên Bái nổi tiếng với ruộng bậc thang Mù Cang Chải.
+Yên Bái có hồ Thác Bà rộng lớn.
+Gia Nghĩa là thành phố trẻ của tỉnh Đắk Nông.
+Gia Nghĩa có nhiều thác nước đẹp.
+Điện Biên Phủ nổi tiếng với chiến thắng lịch sử năm 1954.
+Điện Biên Phủ có cánh đồng Mường Thanh rộng lớn.
+Kon Tum nổi tiếng với nhà rông truyền thống.
+Kon Tum có nhà thờ gỗ cổ kính.
