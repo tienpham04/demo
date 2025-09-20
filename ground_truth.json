@@ -1,0 +1,357 @@
+[
+  {
+    "query": "Thành phố nào nổi tiếng với hồ Hoàn Kiếm?",
+    "relevant": [
+      "Hà Nội nổi tiếng với hồ Hoàn Kiếm và tháp Rùa."
+    ]
+  },
+  {
+    "query": "Cố đô nào có nhiều lăng tẩm và cung điện cổ?",
+    "relevant": [
+      "Huế là cố đô với nhiều lăng tẩm và cung điện cổ."
+    ]
+  },
+  {
+    "query": "Thành phố nào có chợ Bến Thành là biểu tượng?",
+    "relevant": [
+      "TP Hồ Chí Minh có chợ Bến Thành là biểu tượng của thành phố.",
+      "TP Hồ Chí Minh có chợ Bến Thành nổi tiếng."
+    ]
+  },
+  {
+    "query": "Địa danh nào thu hút nhiều khách du lịch quốc tế?",
+    "relevant": [
+      "Vịnh Hạ Long thu hút nhiều khách du lịch quốc tế."
+    ]
+  },
+  {
+    "query": "Thành phố nào có khí hậu mát mẻ quanh năm?",
+    "relevant": [
+      "Sa Pa có khí hậu mát mẻ quanh năm.",
+      "Đà Lạt có khí hậu mát mẻ quanh năm."
+    ]
+  },
+  {
+    "query": "Địa phương nào nổi tiếng với cà phê?",
+    "relevant": [
+      "Cà phê Việt Nam là đặc sản được nhiều du khách yêu thích khi đến Tây Nguyên.",
+      "Buôn Ma Thuột nổi tiếng với cà phê và lễ hội cà phê.",
+      "Pleiku nổi tiếng với Biển Hồ và cà phê."
+    ]
+  },
+  {
+    "query": "Địa danh nào từng vô địch AFF Cup?",
+    "relevant": [
+      "Bóng đá Việt Nam từng vô địch AFF Cup năm 2008 và 2018."
+    ]
+  },
+  {
+    "query": "Lễ hội nào là dịp sum họp gia đình?",
+    "relevant": [
+      "Tết Nguyên Đán là dịp sum họp gia đình và thăm hỏi họ hàng."
+    ]
+  },
+  {
+    "query": "Ẩm thực Hà Nội nổi tiếng với món gì?",
+    "relevant": [
+      "Ẩm thực Hà Nội còn nổi tiếng với bánh cuốn và bún thang.",
+      "Ẩm thực Hà Nội đa dạng với phở, bún chả, bánh cuốn."
+    ]
+  },
+  {
+    "query": "Thành phố nào có nhiều tòa nhà cao tầng hiện đại?",
+    "relevant": [
+      "TP Hồ Chí Minh có nhiều tòa nhà cao tầng hiện đại."
+    ]
+  },
+  {
+    "query": "Thành phố nào có cầu Rồng phun lửa?",
+    "relevant": [
+      "Đà Nẵng có cầu Rồng phun lửa vào cuối tuần.",
+      "Cầu Rồng là biểu tượng hiện đại của thành phố Đà Nẵng."
+    ]
+  },
+  {
+    "query": "Thành phố nào nổi tiếng với hoa phượng đỏ?",
+    "relevant": [
+      "Hải Phòng nổi tiếng với hoa phượng đỏ mỗi mùa hè."
+    ]
+  },
+  {
+    "query": "Thành phố nào có bến Ninh Kiều bên sông Hậu?",
+    "relevant": [
+      "Cần Thơ có bến Ninh Kiều thơ mộng bên sông Hậu.",
+      "Cần Thơ có bến Ninh Kiều thơ mộng bên sông Hậu."
+    ]
+  },
+  {
+    "query": "Thành phố nào có tháp Bà Ponagar?",
+    "relevant": [
+      "Nha Trang có tháp Bà Ponagar là di tích lịch sử nổi tiếng.",
+      "Nha Trang nổi tiếng với tháp Bà Ponagar và biển xanh cát trắng."
+    ]
+  },
+  {
+    "query": "Thành phố nào có tượng Chúa Kitô lớn trên núi Nhỏ?",
+    "relevant": [
+      "Vũng Tàu có tượng Chúa Kitô lớn trên núi Nhỏ."
+    ]
+  },
+  {
+    "query": "Thành phố nào có lễ hội cà phê thu hút đông đảo du khách?",
+    "relevant": [
+      "Buôn Ma Thuột có lễ hội cà phê thu hút đông đảo du khách.",
+      "Buôn Ma Thuột nổi tiếng với cà phê và lễ hội cà phê."
+    ]
+  },
+  {
+    "query": "Thành phố nào nổi tiếng với vườn hoa và rừng thông?",
+    "relevant": [
+      "Đà Lạt nổi tiếng với vườn hoa và rừng thông bạt ngàn.",
+      "Đà Lạt nổi tiếng với vườn hoa và rừng thông bạt ngàn."
+    ]
+  },
+  {
+    "query": "Thành phố nào có bãi biển Kỳ Co và Eo Gió?",
+    "relevant": [
+      "Quy Nhơn có bãi biển Kỳ Co và Eo Gió tuyệt đẹp.",
+      "Quy Nhơn nổi tiếng với bãi biển Kỳ Co, Eo Gió."
+    ]
+  },
+  {
+    "query": "Thành phố nào nổi tiếng với đồi cát bay?",
+    "relevant": [
+      "Phan Thiết nổi tiếng với đồi cát bay và nước mắm truyền thống.",
+      "Phan Thiết nổi tiếng với đồi cát bay và biển Mũi Né."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có thành nhà Hồ là di sản thế giới?",
+    "relevant": [
+      "Thanh Hóa có thành nhà Hồ là di sản thế giới."
+    ]
+  },
+  {
+    "query": "Tỉnh nào nổi tiếng với nhà thờ đá Phát Diệm?",
+    "relevant": [
+      "Nam Định nổi tiếng với nhà thờ đá Phát Diệm."
+    ]
+  },
+  {
+    "query": "Thành phố nào có quảng trường Hồ Chí Minh rộng lớn?",
+    "relevant": [
+      "Vinh có quảng trường Hồ Chí Minh rộng lớn."
+    ]
+  },
+  {
+    "query": "Thành phố nào là cửa ngõ ra đảo Phú Quốc?",
+    "relevant": [
+      "Rạch Giá là cửa ngõ ra đảo Phú Quốc.",
+      "Rạch Giá là cửa ngõ ra đảo Phú Quốc."
+    ]
+  },
+  {
+    "query": "Thành phố nào có chợ nổi đặc trưng miền Tây?",
+    "relevant": [
+      "Long Xuyên có chợ nổi Long Xuyên đặc trưng miền Tây.",
+      "Cần Thơ nổi tiếng với chợ nổi Cái Răng."
+    ]
+  },
+  {
+    "query": "Tỉnh nào nổi tiếng với chè và công nghiệp?",
+    "relevant": [
+      "Thái Nguyên nổi tiếng với chè và công nghiệp."
+    ]
+  },
+  {
+    "query": "Tỉnh nào là quê hương của dân ca quan họ?",
+    "relevant": [
+      "Bắc Ninh là quê hương của dân ca quan họ."
+    ]
+  },
+  {
+    "query": "Địa danh nào có cáp treo Nữ Hoàng và vòng quay Mặt Trời?",
+    "relevant": [
+      "Hạ Long có cáp treo Nữ Hoàng và vòng quay Mặt Trời."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có khu lưu niệm nhạc sĩ Cao Văn Lầu?",
+    "relevant": [
+      "Bạc Liêu có khu lưu niệm nhạc sĩ Cao Văn Lầu."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có nhiều cù lao xanh mát trên sông?",
+    "relevant": [
+      "Bến Tre có nhiều cù lao xanh mát trên sông."
+    ]
+  },
+  {
+    "query": "Thành phố nào có nhiều khu công nghiệp hiện đại?",
+    "relevant": [
+      "Biên Hòa có nhiều khu công nghiệp hiện đại.",
+      "Biên Hòa là thành phố công nghiệp lớn của tỉnh Đồng Nai."
+    ]
+  },
+  {
+    "query": "Thành phố nào nổi tiếng với vườn quốc gia Tràm Chim?",
+    "relevant": [
+      "Cao Lãnh nổi tiếng với vườn quốc gia Tràm Chim."
+    ]
+  },
+  {
+    "query": "Thành phố nào là cửa ngõ ra đảo Bình Ba?",
+    "relevant": [
+      "Cam Ranh là cửa ngõ ra đảo Bình Ba.",
+      "Cam Ranh là cửa ngõ ra đảo Bình Ba."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có lễ hội hoa tam giác mạch vào mùa thu?",
+    "relevant": [
+      "Hà Giang có lễ hội hoa tam giác mạch vào mùa thu.",
+      "Hà Giang có lễ hội hoa tam giác mạch vào mùa thu."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có bãi biển Thiên Cầm đẹp hoang sơ?",
+    "relevant": [
+      "Hà Tĩnh có bãi biển Thiên Cầm đẹp hoang sơ."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có nhiều bản làng dân tộc Mường?",
+    "relevant": [
+      "Hòa Bình có nhiều bản làng dân tộc Mường.",
+      "Hòa Bình có nhiều bản làng dân tộc Mường."
+    ]
+  },
+  {
+    "query": "Thành phố nào có lễ hội thả hoa đăng trên sông Hoài?",
+    "relevant": [
+      "Hội An có lễ hội thả hoa đăng trên sông Hoài."
+    ]
+  },
+  {
+    "query": "Tỉnh nào nổi tiếng với chợ Đông Kinh và ẩm thực vịt quay?",
+    "relevant": [
+      "Lạng Sơn nổi tiếng với chợ Đông Kinh và ẩm thực vịt quay."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có đỉnh Fansipan - nóc nhà Đông Dương?",
+    "relevant": [
+      "Lào Cai có đỉnh Fansipan - nóc nhà Đông Dương."
+    ]
+  },
+  {
+    "query": "Thành phố nào có chợ Móng Cái nổi tiếng?",
+    "relevant": [
+      "Móng Cái có chợ Móng Cái nổi tiếng."
+    ]
+  },
+  {
+    "query": "Thành phố nào có chùa Vĩnh Tràng cổ kính?",
+    "relevant": [
+      "Mỹ Tho có chùa Vĩnh Tràng cổ kính."
+    ]
+  },
+  {
+    "query": "Thành phố nào có nhiều làng nghề truyền thống?",
+    "relevant": [
+      "Phủ Lý có nhiều làng nghề truyền thống.",
+      "Tân An có nhiều làng nghề truyền thống."
+    ]
+  },
+  {
+    "query": "Đảo nào có vườn quốc gia rộng lớn?",
+    "relevant": [
+      "Phú Quốc có vườn quốc gia rộng lớn."
+    ]
+  },
+  {
+    "query": "Thành phố nào nổi tiếng với Biển Hồ?",
+    "relevant": [
+      "Pleiku nổi tiếng với Biển Hồ và cà phê."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có bãi biển Mỹ Khê đẹp hoang sơ?",
+    "relevant": [
+      "Quảng Ngãi có bãi biển Mỹ Khê đẹp hoang sơ."
+    ]
+  },
+  {
+    "query": "Tỉnh nào nổi tiếng với cầu Hiền Lương và sông Bến Hải?",
+    "relevant": [
+      "Quảng Trị nổi tiếng với cầu Hiền Lương và sông Bến Hải."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có đặc sản bánh pía?",
+    "relevant": [
+      "Sóc Trăng có đặc sản bánh pía."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có nhà tù lịch sử?",
+    "relevant": [
+      "Sơn La có nhà tù Sơn La lịch sử."
+    ]
+  },
+  {
+    "query": "Thành phố nào nổi tiếng với món gà Tam Kỳ?",
+    "relevant": [
+      "Tam Kỳ nổi tiếng với món gà Tam Kỳ."
+    ]
+  },
+  {
+    "query": "Thành phố nào có đặc sản mắt cá ngừ đại dương?",
+    "relevant": [
+      "Tuy Hòa có đặc sản mắt cá ngừ đại dương."
+    ]
+  },
+  {
+    "query": "Thành phố nào có suối khoáng nóng nổi tiếng?",
+    "relevant": [
+      "Uông Bí có suối khoáng nóng nổi tiếng."
+    ]
+  },
+  {
+    "query": "Thành phố nào có công viên Văn Lang rộng lớn?",
+    "relevant": [
+      "Việt Trì có công viên Văn Lang rộng lớn."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có nhiều cù lao trên sông Tiền?",
+    "relevant": [
+      "Vĩnh Long có nhiều cù lao trên sông Tiền."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có hồ Thác Bà rộng lớn?",
+    "relevant": [
+      "Yên Bái có hồ Thác Bà rộng lớn."
+    ]
+  },
+  {
+    "query": "Thành phố nào có nhiều thác nước đẹp?",
+    "relevant": [
+      "Gia Nghĩa có nhiều thác nước đẹp."
+    ]
+  },
+  {
+    "query": "Thành phố nào có cánh đồng Mường Thanh rộng lớn?",
+    "relevant": [
+      "Điện Biên Phủ có cánh đồng Mường Thanh rộng lớn."
+    ]
+  },
+  {
+    "query": "Tỉnh nào có nhà thờ gỗ cổ kính?",
+    "relevant": [
+      "Kon Tum có nhà thờ gỗ cổ kính."
+    ]
+  }
+]

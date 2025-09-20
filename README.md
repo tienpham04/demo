@@ -44,12 +44,22 @@ APP_SECRET_KEY=your_secret_key_here
 - Dữ liệu mẫu đã có sẵn trong `data/data.txt`.
 - Bạn có thể chỉnh sửa hoặc mở rộng file này theo ý muốn.
 
-### 6. Index dữ liệu vào Qdrant
+### 6. Kiểm tra data với ground truth
+```bash
+python eval_recall.py
+```
+
+### 7. Index dữ liệu vào Qdrant
 ```bash
 python db/index_data.py
 ```
 
-### 7. Chạy ứng dụng Flask
+### 8. Kiểm tra data với ground truth
+```bash
+python eval_recall.py
+```
+
+### 9. Chạy ứng dụng Flask
 ```bash
 python app.py
 ```
@@ -57,4 +67,4 @@ python app.py
 
 ## Ghi chú
 - Nếu muốn thay đổi mô hình embedding, chỉnh sửa file `db/index_data.py` và `models/embedding.py`.
-- Để cập nhật dữ liệu mới, hãy sửa `data/data.txt` và chạy lại bước 6.
+- Để cập nhật dữ liệu mới, hãy sửa `data/data.txt` và chạy lại bước 7.
